@@ -58,4 +58,3 @@ Here is the mockup illustration of the mobile view (only required graded parts a
  ![mobile expanded](images/mobile-expanded.png)
 
 
-**&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**
